@@ -1,0 +1,11 @@
+import logos from './logos.png'
+import hero from './hero.png'
+import card from './card.png'
+import card1 from './card1.png'
+import card2 from './card2.png'
+import card3 from './card3.png'
+import main from './Main.png'
+import main1 from './main1.png'
+import FooterCard from './FooterCard.png'
+import FooterCard1 from './FooterCard1.png'
+export{logos, hero, card, card1, card2, card3, main, main1, FooterCard, FooterCard1}
